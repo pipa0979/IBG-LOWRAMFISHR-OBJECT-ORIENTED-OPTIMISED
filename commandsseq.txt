@@ -1,0 +1,1 @@
+-ped-file ./src/Beagle.Phased.Group2.1k.ped -bmatch ./src/GL_OUT.bmatch -bsid ./src/GL_OUT.bsid -bmid ./src/GL_OUT.bmid -reduced 64 3 -window 50 -gap 100 -output.type finalOutput -count.gap.errors TRUE -emp-pie-threshold 0.015 -ma-threshold 0.2 -log.file logs
