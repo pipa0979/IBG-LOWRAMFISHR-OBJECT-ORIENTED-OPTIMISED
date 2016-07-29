@@ -1,0 +1,36 @@
+ Program working directory was: /home/piyush/Documents/IBG-FISHR-GITHUB/IBG-LOWRAMFISHR-OBJECT-ORIENTED-OPTIMISED/IBG-LOWRAMFISHR-OBJECT-ORIENTED-OPTIMISED 
+Program version was: ./IBG-FISHR-LOWRAM-RIPOFF 
+Program options:
+-bmatch file: ./src/GL_OUT.bmatch 
+-bmid file: ./src/GL_OUT.bmid 
+-bsid file: ./src/GL_OUT.bsid 
+-ped file: ./src/Beagle.Phased.Group2.1k.ped 
+-holdout ped file:  
+-holdoutmap file:  
+-output type: finalOutput 
+- missing SNP representation in pedfile:  
+-log file: logs 
+min snp length : 64 
+min cm length : 3 
+gap to consolidate : 100 
+moving averages window size : 50 
+discard ends to calculate pct err : 50  
+percentage error threshold: 0.9
+ 
+ Corresponding empirical error threshold for 0.9 is: 0.015 
+
+ 
+ No of segments deemed to be IBD for finding empirical error threshold 883 
+ No of segments deemed to be IBD for finding empirical error threshold in hold out are 0
+
+ User supplied ma-threshold is: 0.2
+ Moving Averages will be tested usign the empirical threshold: 0
+ 
+ No of matches removed due to percentage error: 0 
+ No of matches removed due to length of trimming by moving averages: 7881 
+ No of matches removed due hold out ped file checking: 0 
+ No of matches removed due to initial length: 0
+ The program started at: Fri Jul 29 05:21:36 2016
+
+ The program ended at: Fri Jul 29 05:21:38 2016
+  Total time ( in seconds): 2
